@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/st0n3dic3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://st0nedic3.github.io
+  * I am st0n3dic3 (https://keybase.io/st0n3dic3) on keybase.
+  * I have a public key ASBEaLdulUeUx1sBrRwmNU18cCiEvZLvZLmU3Wmd9GU02go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120afb5969f0c06bae57b00c3f13958d1f5e2a2e900ab8a65d9b13a1500ec59f0ed0a",
+      "host": "keybase.io",
+      "kid": "01204468b76e954794c75b01ad1c26354d7c702884bd92ef64b994dd699df46534da0a",
+      "uid": "288bbc4770b09212b4bee97a52a42819",
+      "username": "st0n3dic3"
+    },
+    "merkle_root": {
+      "ctime": 1648940928,
+      "hash": "20e3f77a58b4396c9824677d26b89073d02169283c40fa8756b83ab1ee6084e144d79d9d4ee337e14e58a4e837443763a33a0cc26516756a9269381ea34c0582",
+      "hash_meta": "eda187ba97a0acf0d98c78f97fe908ad8f0aefca38a2eeb7d4c76f5d1616a95a",
+      "seqno": 22214696
+    },
+    "service": {
+      "entropy": "3nhkXL2F7mNEBn0eBgXuSWVw",
+      "hostname": "st0nedic3.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1648941078,
+  "expire_in": 504576000,
+  "prev": "19b4cdd880103e72ac916bebebeda46a8277419f7f0cf7911307e87d1902e187",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRGi3bpVHlMdbAa0cJjVNfHAohL2S72S5lN1pnfRlNNoKp3BheWxvYWTESpcCCsQgGbTN2IAQPnKskWvr6+2kaoJ3QZ9/DPeREwfofRkC4YfEII7l95m4ww5wgycWRN1iKmgLsOiNWVp/nuVMmJBO82syAgHCo3NpZ8RAHRmLi1KYbcs+WXeey1Vd0rlACvZxuk271hxP3BTZFzah7DnjEOJIFNsUvcIr6U4X56vAYqsB61QcuLwtlKcBCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICIt0B0/+BUWq64u2bH3d1UqrX2NFTGBPaZj7HFackdVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/st0n3dic3
+
+==================================================================
